@@ -4,15 +4,16 @@
         <div class="flex flex-1 flex-col gap-y-16 py-14">
             <div class="flex flex-col gap-y-4 items-center justify-center">
                 <span class="dark:text-white font-semibold sm:text-5xl text-4xl text-black text-center">Software
-                    Engineering Résumé Review</span>
+                    Engineering Résumé Review & Job Search Strategy Consulting</span>
             </div>
             <div class="flex flex-col items-center justify-center">
                 <div class="flex flex-col items-center justify-center">
                     <h1 class="text-2xl mb-10">Trouble getting calls back after applying to open positions?</h1>
-                    <p>I help experienced and new grads in the software development industry get more interviews
+                    <p class="m-6">I help experienced and new grads in the software development industry get more interviews
                         quicker.
                     </p>
-                    <p>
+                    <p class="m-6">Software engineer, software developer, programmer.  Whatever you call yourself, I can help you market yourself more effectively.</p>
+                    <p class="m-6">
                         By having an in-depth conversation about your skills, experience, and where you want to go, I
                         provide actionable steps to
                         update your résumé and job search strategy.
@@ -48,14 +49,14 @@
                     </div>
                 </div>
                 <div>
-                    <h1>What you get</h1>
+                    <h1 class="text-lg font-semibold">What you get</h1>
                     <ul class="list-inside list-disc">
                         <li>A 1 hour conversation to understand where you are in your job search journey</li>
-                        <li>An understanding of you are and what skills and experience make you attractive in the job
+                        <li>An understanding of who you are and what skills & experience make you attractive in the job
                             market</li>
                         <li>An in-depth review of your résumé and search strategy</li>
-                        <li>Actionable list of steps to jump start your job search after our conversation</li>
-                        <li>1 FREE résumé follow-up review for additional improvements</li>
+                        <li>Actionable list of steps to jump start your job search after our consultation</li>
+                        <li>1 <span class="font-bold">FREE</span> async résumé follow-up review for additional improvements</li>
                     </ul>
                 </div>
             </div>
