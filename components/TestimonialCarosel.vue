@@ -19,7 +19,7 @@ onMounted(() => {
     }
 
     carouselRef.value.next()
-  }, 3000)
+  }, 5000)
 })
 </script>
 

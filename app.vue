@@ -2,6 +2,7 @@
   <div>
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
-    <TestimonialCarosel/>
+    <Interview />
+    <Footer></Footer>
   </div>
 </template>
