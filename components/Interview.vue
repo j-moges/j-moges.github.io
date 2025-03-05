@@ -8,9 +8,10 @@
             </div>
             <div class="flex flex-col items-center justify-center">
                 <div class="flex flex-col items-center justify-center">
-                    <h1>Trouble getting calls back?</h1>
+                    <h1 class="text-2xl mb-10">Trouble getting calls back after applying to open positions?</h1>
                     <p>I help experienced and new grads in the software development industry get more interviews
-                        quicker.</p>
+                        quicker.
+                    </p>
                     <p>
                         By having an in-depth conversation about your skills, experience, and where you want to go, I
                         provide actionable steps to
@@ -19,8 +20,8 @@
                     </p>
                 </div>
                 <div>
-                    <h1>Why me?</h1>
-                    <ul>
+                    <h1 class="font-bold text-2xl">Why me?</h1>
+                    <ul class="list-inside list-disc">
                         <li>I'm a software developer by trade</li>
                         <li>I understand your experience, tools, and tech.  Front-end, back-end, full-stack, devops, juniors, seniors, lead devs, etc.</li>
                         <li>I know what recruiters and hiring managers want to see</li>
@@ -37,7 +38,9 @@
                             class="absolute inset-y-0 right-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
                             <!-- right area -->
                         </div>
-                        <div class="-top-[58px] absolute flex inset-x-0 justify-center w-full">logo centered</div>
+                        <div class="-top-[58px] absolute flex inset-x-0 justify-center w-full">
+                            <!-- logo centered -->
+                        </div>
                         <div class="flex flex-col gap-y-4 items-center pb-6 pt-[58px] px-4 rounded-xl sm:px-28 z-10">
                             <span>Don't take my word for it. Hear from other people I've helped!</span>
                             <TestimonialCarosel />
@@ -46,13 +49,13 @@
                 </div>
                 <div>
                     <h1>What you get</h1>
-                    <ul>
+                    <ul class="list-inside list-disc">
                         <li>A 1 hour conversation to understand where you are in your job search journey</li>
                         <li>An understanding of you are and what skills and experience make you attractive in the job
                             market</li>
                         <li>An in-depth review of your résumé and search strategy</li>
                         <li>Actionable list of steps to jump start your job search after our conversation</li>
-                        <li>1 FREE résumé follow-up review</li>
+                        <li>1 FREE résumé follow-up review for additional improvements</li>
                     </ul>
                 </div>
             </div>
