@@ -1,7 +1,7 @@
 <template>
   <div class="font-mono">
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <!-- <NuxtWelcome /> -->
     <Interview />
     <Footer></Footer>
   </div>

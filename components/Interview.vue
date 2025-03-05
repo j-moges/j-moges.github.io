@@ -7,29 +7,6 @@
                     Engineering Résumé Review & Job Search Strategy Consulting</span>
             </div>
             <div class="flex flex-col items-center justify-center">
-                <div class="flex flex-col items-center justify-center">
-                    <h1 class="text-2xl mb-10">Trouble getting calls back after applying to open positions?</h1>
-                    <p class="m-6">I help experienced and new grads in the software development industry get more interviews
-                        quicker.
-                    </p>
-                    <p class="m-6">Software engineer, software developer, programmer.  Whatever you call yourself, I can help you market yourself more effectively.</p>
-                    <p class="m-6">
-                        By having an in-depth conversation about your skills, experience, and where you want to go, I
-                        provide actionable steps to
-                        update your résumé and job search strategy.
-                        <!-- alt + 0233 = é -->
-                    </p>
-                </div>
-                <div>
-                    <h1 class="font-bold text-2xl">Why me?</h1>
-                    <ul class="list-inside list-disc">
-                        <li>I'm a software developer by trade</li>
-                        <li>I understand your experience, tools, and tech.  Front-end, back-end, full-stack, devops, juniors, seniors, lead devs, etc.</li>
-                        <li>I know what recruiters and hiring managers want to see</li>
-                        <li>I've done it multiple times before myself and learned the lessons so you don't have to</li>
-                        <li>I ask you questions and listen to what makes you a great candidate</li>
-                    </ul>
-                </div>
                 <div class="gap-6 grid grid-cols-2 lg:grid-cols-10 max-w-[960px] px-4">
                     <div class="col-span-2 lg:col-span-10 relative items-center ">
                         <div class="absolute inset-y-0 left-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
@@ -40,10 +17,47 @@
                             <!-- right area -->
                         </div>
                         <div class="-top-[58px] absolute flex inset-x-0 justify-center w-full">
-                            <!-- logo centered -->
+                        </div>
+                        <h1 class="text-2xl mb-10">Trouble getting calls back after applying to open positions?</h1>
+                        <p class="m-6">I help experienced and new grads in the software development industry get more
+                            interviews
+                            quicker.
+                        </p>
+                        <p class="m-6">Software engineer, software developer, programmer. Whatever you call yourself, I
+                            can help you market yourself more effectively.</p>
+                        <p class="m-6">
+                            By having an in-depth conversation about your skills, experience, where you want to go,
+                            and where you've been I
+                            provide actionable steps to
+                            accelerate your résumé and job search strategy.
+                            <!-- alt + 0233 = é -->
+                        </p>
+                <div>
+                    <h1 class="font-bold text-2xl">Why me?</h1>
+                    <ul class="list-inside list-disc">
+                        <li>I'm a software developer by trade</li>
+                        <li>I understand your experience, tools, and tech. Front-end, back-end, full-stack, devops,
+                            juniors, seniors, lead devs, etc.</li>
+                        <li>I know what recruiters and hiring managers want to see</li>
+                        <li>I've done it multiple times before and learned the lessons so you don't have to</li>
+                        <li>I ask you questions and listen to what makes you a great candidate</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+                <div class="gap-6 grid grid-cols-2 lg:grid-cols-10 max-w-[960px] px-4">
+                    <div class="col-span-2 lg:col-span-10 relative items-center ">
+                        <div class="absolute inset-y-0 left-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
+                            <!-- left area -->
+                        </div>
+                        <div
+                            class="absolute inset-y-0 right-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
+                            <!-- right area -->
+                        </div>
+                        <div class="-top-[58px] absolute flex inset-x-0 justify-center w-full">
                         </div>
                         <div class="flex flex-col gap-y-4 items-center pb-6 pt-[58px] px-4 rounded-xl sm:px-28 z-10">
-                            <span>Don't take my word for it. Hear from other people I've helped!</span>
+                            <span class="text-md font-semibold">Don't take my word for it. Hear from other people I've helped!</span>
                             <TestimonialCarosel />
                         </div>
                     </div>
@@ -56,7 +70,8 @@
                             market</li>
                         <li>An in-depth review of your résumé and search strategy</li>
                         <li>Actionable list of steps to jump start your job search after our consultation</li>
-                        <li>1 <span class="font-bold">FREE</span> async résumé follow-up review for additional improvements</li>
+                        <li>1 <span class="font-bold">FREE</span> async résumé follow-up review for additional
+                            improvements</li>
                     </ul>
                 </div>
             </div>
