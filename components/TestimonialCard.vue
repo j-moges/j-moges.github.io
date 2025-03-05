@@ -1,7 +1,8 @@
 <template>
-    <div class="border-amber-600 rounded-lg">
+    <div class="border border-gray-600 rounded-lg p-5 ">
         <div id="testimonial-text">{{ testimonial }}</div>
-        <div id="testimonial-author">{{ author }}</div>
+        <br/>
+        <div id="testimonial-author" class="text-bold"><span>- {{ author }}</span></div>
     </div>
 </template>
 
