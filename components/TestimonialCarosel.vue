@@ -60,6 +60,5 @@ onMounted(() => {
     <UCarousel ref="carouselRef" v-slot="{ item }" :items="items" :ui="{ item: 'basis-full' }"
         class="rounded-lg overflow-hidden" indicators>
         <TestimonialCard :testimonial="item.testimonial" :author="item.author"></TestimonialCard>
-        <!-- <img :src="item.pic" class="w-full" draggable="false"> -->
     </UCarousel>
 </template>
