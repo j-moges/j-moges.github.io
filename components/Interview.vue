@@ -90,6 +90,28 @@
                         </ul>
                     </div>
                 </div>
+
+
+
+                <div class="gap-6 grid grid-cols-2 lg:grid-cols-10 max-w-[960px] px-4">
+                    <div class="col-span-2 lg:col-span-10 relative items-center ">
+                        <div class="absolute inset-y-0 left-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
+                            <!-- left area -->
+                        </div>
+                        <div
+                            class="absolute inset-y-0 right-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
+                            <!-- right area -->
+                        </div>
+                        <div class="-top-[58px] absolute flex inset-x-0 justify-center w-full">
+                        </div>
+                        <div class="flex flex-col gap-y-4 items-center pb-6 pt-[58px] px-4 rounded-xl sm:px-28 z-10">
+                        </div>
+                        <h1 class="text-lg font-semibold">Schedule a call!</h1>
+                        <div>Calendly Link to schedule call then Paypal
+                            <p>do i need to make this much longer before stuff will fit over to the lefft becuase its a flex?</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
