@@ -109,6 +109,12 @@
                         <h1 class="text-lg font-semibold">Schedule a call!</h1>
                         <div>Calendly Link to schedule call then Paypal
                             <p>do i need to make this much longer before stuff will fit over to the lefft becuase its a flex?</p>
+                        <!-- TODO: get a domain, see about domain email, find a hosting site/platform (domain email here?  who provides?) 
+                                    sign up for calendly (free), create a business paypal account (create new checking account?),
+                                    use google meet for conferencing and integrate with calendly, setup paypal-calendly integration,
+                                    add calendly/paypal to the website and test
+                        -->
+                        
                         </div>
                     </div>
                 </div>
