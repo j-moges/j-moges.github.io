@@ -113,6 +113,8 @@
                                     sign up for calendly (free), create a business paypal account (create new checking account?),
                                     use google meet for conferencing and integrate with calendly, setup paypal-calendly integration,
                                     add calendly/paypal to the website and test
+
+                                    Add SEO stuff through Nuxt for the page to start driving traffic
                         -->
                         
                         </div>
