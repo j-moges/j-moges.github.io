@@ -37,7 +37,7 @@
                             <ul class="list-inside list-disc">
                                 <li>I'm a software developer by trade</li>
                                 <li>I understand your experience, tools, and tech. Front-end, back-end, full-stack,
-                                    devops,
+                                    devops, data science, database developers,
                                     juniors, seniors, lead devs, etc.</li>
                                 <li>I know what recruiters and hiring managers want to see</li>
                                 <li>I've done it multiple times before and learned the lessons so you don't have to</li>
