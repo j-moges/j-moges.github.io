@@ -64,18 +64,31 @@
                         </div>
                     </div>
                 </div>
-                <div>
-                    <h1 class="text-lg font-semibold">What you get</h1>
-                    <ul class="list-inside list-disc">
-                        <li>A 1 hour conversation to understand where you are in your job search journey</li>
-                        <li>An understanding of who you are and what skills & experience make you attractive in the
-                            job
-                            market</li>
-                        <li>An in-depth review of your résumé and search strategy</li>
-                        <li>Actionable list of steps to jump start your job search after our consultation</li>
-                        <li>1 <span class="font-bold">FREE</span> async résumé follow-up review for additional
-                            improvements</li>
-                    </ul>
+                <div class="gap-6 grid grid-cols-2 lg:grid-cols-10 max-w-[960px] px-4">
+                    <div class="col-span-2 lg:col-span-10 relative items-center ">
+                        <div class="absolute inset-y-0 left-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
+                            <!-- left area -->
+                        </div>
+                        <div
+                            class="absolute inset-y-0 right-0 rounded-xl to-transparent transition-opacity w-[20%] z-1">
+                            <!-- right area -->
+                        </div>
+                        <div class="-top-[58px] absolute flex inset-x-0 justify-center w-full">
+                        </div>
+                        <div class="flex flex-col gap-y-4 items-center pb-6 pt-[58px] px-4 rounded-xl sm:px-28 z-10">
+                        </div>
+                        <h1 class="text-lg font-semibold">What you get</h1>
+                        <ul class="list-inside list-disc">
+                            <li>A 1 hour conversation to understand where you are in your job search journey</li>
+                            <li>An understanding of who you are and what skills & experience make you attractive in the
+                                job
+                                market</li>
+                            <li>An in-depth review of your résumé and search strategy</li>
+                            <li>Actionable list of steps to jump start your job search after our consultation</li>
+                            <li>1 <span class="font-bold">FREE</span> async résumé follow-up review for additional
+                                improvements</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
