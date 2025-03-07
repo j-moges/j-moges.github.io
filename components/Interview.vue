@@ -19,9 +19,8 @@
                         <div class="-top-[58px] absolute flex inset-x-0 justify-center w-full">
                         </div>
                         <h1 class="text-2xl mb-10">Trouble getting calls back after applying to open positions?</h1>
-                        <p class="m-6">I help experienced and new grads in the software development industry get more
-                            interviews
-                            quicker.
+                        <p class="m-6">I help experienced software developers and new grads in the software development 
+                            industry get more interviews quicker.
                         </p>
                         <p class="m-6">Software engineer, software developer, programmer. Whatever you call yourself, I
                             can help you market yourself more effectively.</p>

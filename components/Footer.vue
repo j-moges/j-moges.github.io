@@ -1,5 +1,7 @@
 <template>
-    <footer id="app-footer">Some text to see</footer>
+    <footer id="app-footer">
+        <!-- Some text to see -->
+        </footer>
 </template>
 
 <style>
