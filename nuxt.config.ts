@@ -6,10 +6,10 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'en'
       },
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: './public/favicon.ico' }
+      ],
     },
-    header: {
-      link: [{rel: 'icon', type: 'image/x-icon', href: './public/favicon.ico'}]
-    }
   },
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
