@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   app: {
+    baseURL: 'j-moges.github.io',
     head: {
       title: 'Michael Althoff Consulting', //default fallback title
       htmlAttrs: {
